@@ -95,15 +95,5 @@
 			<type>1</type>
 			<location>C:/Users/ebedir01/STM32Cube/Repository/STM32Cube_FW_G4_V1.6.0/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c</location>
 		</link>
-		<link>
-			<name>Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim.c</name>
-			<type>1</type>
-			<location>C:/Users/ebedir01/STM32Cube/Repository/STM32Cube_FW_G4_V1.6.0/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c</location>
-		</link>
-		<link>
-			<name>Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim_ex.c</name>
-			<type>1</type>
-			<location>C:/Users/ebedir01/STM32Cube/Repository/STM32Cube_FW_G4_V1.6.0/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c</location>
-		</link>
 	</linkedResources>
 </projectDescription>
