@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+source/stm32_mcal/Debug
+source/.metadata
+source/stm32_mcal/.settings/language.settings.xml
+source/stm32_mcal/.settings/stm32cubeide.project.prefs
+source/stm32_mcal/Debug
+*.bak
